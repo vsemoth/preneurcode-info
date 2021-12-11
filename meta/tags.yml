@@ -1,13 +1,15 @@
 tags:
-  - slug: document
-    name: document
-  - slug: mock
-    name: mock
-  - slug: style
-    name: style
-  - slug: license
-    name: license
-  - slug: mdx
-    name: mdx
-  - slug: markdown
-    name: markdown
+  - slug: entrepreneuship
+    name: entrepreneuship
+  - slug: imposter_syndrome
+    name: imposter_syndrome
+  - slug: work_from_home
+    name: work_from_home
+  - slug: make_money_online
+    name: make_money_online
+  - slug: motivation
+    name: motivation
+  - slug: keys
+    name: keys
+  - slug: top10
+    name: top10
